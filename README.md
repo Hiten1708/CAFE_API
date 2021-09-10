@@ -15,4 +15,4 @@ You might encounter only few errors which will be quite descriptive when you get
 ## Rate limit
 No rate limit
 
-[Documentaion](https://documenter.getpostman.com/view/17439736/U16jP6Hp)
+[Documentation](https://documenter.getpostman.com/view/17439736/U16jP6Hp)
