@@ -1,5 +1,5 @@
 <h1 align="center"> CAFE_API </h1>
-<h2 align="center"> [Documentation](https://documenter.getpostman.com/view/17439736/U16jP6Hp) <h2>
+You can find the [documentation](https://documenter.getpostman.com/view/17439736/U16jP6Hp) here
 
 ## Overview
 
