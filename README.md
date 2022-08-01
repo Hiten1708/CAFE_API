@@ -68,13 +68,13 @@ Request[GET]: https://cafeapi-flask-app.herokuapp.com/all
 {
     "cafe": [
         {
-            <i>item1</i>
+            cafe1
         },
         {
-            <i>item2</i>
+            cafe2
         },
         {
-            <i>item3</i>
+            cafe3
         }
         ]
 }
